@@ -9,3 +9,4 @@
 - mongoose
 - mongoose-aggregate-paginate-v2
 - nodemailer
+- Mongodb Atlas
